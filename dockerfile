@@ -8,7 +8,7 @@ stage('build')
 {
 steps
 {
-echo('building the project;)
+echo('building the project')
 }
 }
 stage('Test')
